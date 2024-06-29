@@ -1,11 +1,17 @@
-.box{
+.header,.hero,.body,.bar,.footer{
+    background-color: teal;
     margin-bottom: 10px;
-    height: 80px;
-    background-color: green;
-    color: white;
-    font-size: 36px;
 }
-
-.service{
-    text-align: center;
+.box{
+    margin: 10px 0;
+    min-height: 80px;
+    background-color: orangered;
+    font-size: 30px;
+    color: white;
+}
+.red{
+    background-color: limegreen;
+}
+.five{
+    background-color: blue;
 }
